@@ -1,16 +1,62 @@
-### Hi there 👋
+# About Me
 
-<!--
-**admin-402/admin-402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "Name": "Vignesh",
+    "Pronouns": ["He", "Him", "His"],
+    "Ask Me About": [
+        "Cyber Security",
+        "Open Source Development"
+    ],
+    "Languages": {
+        "Python": "Intermediate",
+        "JavaScript": "Intermediate",
+        "Go": "Beginner",
+        "Bash": "Beginner",
+        "C++": "Beginner",
+    },
+    "Technologies": {
+        "Frontend": [
+          "Node.js",
+          "React.js",
+        ],
+        "Database": [
+          "MySQL",
+          "MongoDB",
+          "Oracle"
+        ],
+        "Dev Ops": [
+          "AWS",
+          "GCP",
+          "GitHub",
+          "Docker",
+        ],
+        "Cyber Security": [
+          "Censys",
+          "Shodan",
+          "hackerone",
+          "Bugcroud",
+          "DDoS",
+          "WaF"
+        ],
+        "Operating Systems": [
+          "macOS",
+          "Linux"
+        ],
+        "Design": [
+          "Figma",
+          "Adobe XD"
+        ],
+        "Misc": [
+          "Firebase",
+          "Final Cut Pro X"
+          "Photoshop"
+        ],
+    },
+    "Stats": {
+        "Account Age": "2 years",
+        "Own": "4 repositories",
+        "Contributed to": "0 public repositories",
+    }
+}
+```
