@@ -6,18 +6,18 @@
     "Pronouns": ["He", "Him", "His"],
     "Ask Me About": [
         "Cyber Security",
-        "Open Source Development"
+        "Web Development"
     ],
     "Languages": {
         "Python": "Intermediate",
-        "JavaScript": "Intermediate",
-        "Go": "Beginner",
-        "Bash": "Beginner",
-        "C++": "Beginner",
+        "PHP": "Intermediate",
+        "C/C++": "Beginner",
+        "Java": "Beginner",
     },
     "Technologies": {
         "Frontend": [
-          "Node.js",
+          "jQuery",
+          "
           "React.js",
         ],
         "Database": [
