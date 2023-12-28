@@ -22,7 +22,8 @@ I'm a Student passionate about Reverse Engineering. Welcome to my GitHub profile
 
 ## 📝 Recent Projects
 
-- ARP Tools ([GitHub repo](https://github.com/vigneshsb403/ARP-Tools))
-- Python Client Server ([GitHub repo](https://github.com/vigneshsb403/Chat-Server-Client))
+- ARP Tools ([Git repo](https://github.com/vigneshsb403/ARP-Tools))
+- Python Client Server ([Git repo](https://github.com/vigneshsb403/Chat-Server-Client))
+- CVE-2019-20372 ([Git repo](https://github.com/vigneshsb403/nginx0-HTTP-smugging))
 
 Feel free to explore my repositories and don't hesitate to reach out! 😄
