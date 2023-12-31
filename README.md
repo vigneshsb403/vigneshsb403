@@ -8,11 +8,12 @@ I'm a Student passionate about Reverse Engineering. Welcome to my GitHub profile
 - 🌱 I'm currently learning System Calls.
 - 💬 Ask me about Cyber Security, Reverse Engineering, Bug Bounty.
 - 📫 How to reach me: vignesh.sb@icloud.com.
-
+- ⚡  dont run `printf "\\e\]7;file://vigneshsb.fun/tmp\\a";` sleep 10 on your Mac terminal
 ## 🔧 Technologies & Tools
 
 - LAMP [Linux, Apache, MySQL, PHP]
 - Docker🐳
+- Python, C, C++, Java
 
 ## 🌐 Connect with Me
 
